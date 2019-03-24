@@ -12,7 +12,7 @@ github_repo: "https://github.com/wangzhiwubigdata/wangzhiwubigdata.github.io.git
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "告别增删改查，大数据走起来~"
-sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/weixin.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
