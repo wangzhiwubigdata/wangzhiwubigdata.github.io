@@ -1,6 +1,6 @@
 # Site settings
 title: 王知无
-SEOTitle: 王知无的博客 | BY Blog
+SEOTitle: 王知无的博客 | 大数据
 header-img:  img/post-bg-alibaba.jpg
 #email: qiubaiying@gmail.com
 description: "告别增删改查，大数据走起来~"
@@ -59,11 +59,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: 132c372fe876a063ec47                            #生成的clientID
+  clientSecret: d269442232a09fea12ad8b59fd01b14b9c3dc874    #生成的clientSecret
+  repo: wangzhiwubigdata.github.io    #仓库名称
+  owner: wangzhiwubigdata    #github用户名
+  admin: wangzhiwu
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
