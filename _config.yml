@@ -1,7 +1,7 @@
 # Site settings
 title: 王知无
 SEOTitle: 王知无的博客 | BY Blog
-header-img: /img/bigdata.jpg
+header-img: /img/post-bg-alibaba.jpg
 #email: qiubaiying@gmail.com
 description: "告别增删改查，大数据走起来~"
 keyword: "Hadoop, Spark, Flink, Kafka, Java进阶, 大数据"
