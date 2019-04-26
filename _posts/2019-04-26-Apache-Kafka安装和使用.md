@@ -1,8 +1,8 @@
 
 ---
 layout:     post   				    
-title:      Apache Kafka安装和简介				# 标题 
-subtitle:   Apache Kafka安装和简介 #副标题
+title:      Apache Kafka安装和使用				# 标题 
+subtitle:   Apache Kafka安装和使用 #副标题
 date:       2019-04-26				# 时间
 author:     王知无						# 作者
 header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
@@ -10,8 +10,10 @@ catalog: true 						# 是否归档
 tags:								#标签
     - Kafka
     - 大数据
-    
 ---
+
+## Apache Kafka安装和使用
+>Apache Kafka安装和使用
 
 
 **Apache Kafka 编程实战您可能感兴趣的文章:**
