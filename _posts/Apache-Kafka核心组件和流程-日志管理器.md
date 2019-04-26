@@ -1,3 +1,20 @@
+---
+layout:     post   				    
+title:      Apache Kafka核心组件和流程-日志管理器			# 标题 
+subtitle:   Apache Kafka核心组件和流程-日志管理器 #副标题
+date:       2019-03-24 				# 时间
+author:     王知无						# 作者
+header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:								#标签
+    - Kafka
+---
+
+
+## Apache Kafka核心组件和流程-日志管理器
+>Apache Kafka核心组件和流程-日志管理器
+
+
 **Apache Kafka 编程实战您可能感兴趣的文章:**
 
 [Apache-Kafka简介](http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzU3MzgwNTU2Mg%3D%3D%26mid%3D100000482%26idx%3D1%26sn%3D22b13749ed0352cd286eac7697f39f23%26chksm%3D7d3d44774a4acd6189d082976e90087a9a955e6ca12b21193395536643a302ac4c13c88fe212%23rd)
