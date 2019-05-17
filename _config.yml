@@ -3,7 +3,7 @@ title: 王知无
 SEOTitle: 王知无的博客 | 大数据
 header-img:  img/post-bg-alibaba.jpg
 #email: qiubaiying@gmail.com
-description: "关注公众号：《大数据技术与架构》"
+description: "公众号《大数据技术与架构》"
 keyword: "Hadoop, Spark, Flink, Kafka, Java进阶, 大数据"
 url: "http://wangzhiwubigdata.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/wangzhiwubigdata/wangzhiwubigdata.github.io.git
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "关注公众号：《大数据技术与架构》"
+sidebar-about-description: "公众号《大数据技术与架构》"
 sidebar-avatar: /img/wxsmall.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
